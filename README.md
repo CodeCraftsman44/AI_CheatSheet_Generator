@@ -1,2 +1,2 @@
 # AI_CheatSheet_Generator
-Upload your script Files and let AI generate you a condensed Cheatsheet
+Upload your lectures and let AI generate you a condensed Cheatsheet
